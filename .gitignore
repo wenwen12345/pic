@@ -1,0 +1,4 @@
+# Specify filepatterns you want git to ignore.
+
+*.svg
+.DS_Store
